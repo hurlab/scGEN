@@ -16,4 +16,4 @@ Recent advancements in single-cell RNA sequencing have greatly enhanced our abil
 | Scala        | 2      | 1      |
 | Schwalbe     | 4      | 100    |
 | zhang        | 4      | 10     |
-|--------------|--------|--------|
+
