@@ -42,7 +42,7 @@ scGEN accepts input data in `.mat` (MATLAB) format. You can convert your data to
    ```
 
 ### Data Download
-You can download example datasets from: https://zenodo.org/uploads/16945598
+You can download example datasets and scripts from: [https://zenodo.org/uploads/16945598](https://zenodo.org/records/16949673)
 
 ## Hyperparameter Configuration
 
